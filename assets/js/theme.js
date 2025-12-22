@@ -1,9 +1,7 @@
 // js Document
 
-// Created on   : 15/20/2024.
-// Theme Name   : Piku - Creative Saas & Software HTML5 Template
+// Theme Name   : All In One - Tools for daily use
 // Version      : 1.0.
-// Developed by : (me@heloshape.com) / (www.me.heloshape.com)
 
 
 (function($) {
