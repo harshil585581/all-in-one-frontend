@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1316.31 815.28">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: MicroRegular, Micro;
+        font-size: 250px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-2" transform="translate(0 692.85)"><tspan x="0" y="0">ZIP SAFARI</tspan></text>
+    <path d="M839.59,242.53h-362.86l29.84-152.07,149.98-25.09,149.58,25.47,33.45,151.68Z"/>
+    <path class="cls-1" d="M636.41,130.01v43.32h-43.46v-43.32h43.46Z"/>
+    <path class="cls-1" d="M766.82,130.01v43.32h-43.46v-43.32h43.46Z"/>
+    <path class="cls-1" d="M853.74,173.34v-86.69h-43.46v-43.32h-43.46V0h-217.33v43.32h-43.46v43.32h-43.46v130.03h-43.49v130h43.49v-43.36h43.46v43.36h-43.46v86.65h43.46v-43.32h43.46v43.32h43.46v-43.32h43.46v43.32h43.49v-43.32h43.46v43.32h43.46v-43.32h43.46v43.32h43.46v-86.65h-43.46v-43.36h43.46v43.36h43.49v-130h-43.49v-43.34ZM810.28,173.34h-43.46v43.34h-86.92v-43.34h-43.49v43.34h-86.92v-43.34h-43.46v-43.32h43.46v-43.37h86.92v43.37h43.49v-43.37h86.92v43.37h43.46v43.32Z"/>
+  </g>
+</svg>
