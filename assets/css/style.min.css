@@ -2106,7 +2106,7 @@ p {
   line-height: 55px;
   border-radius: 50px;
   text-align: center;
-  background: #000;
+  background: #ba90da;
   transition: all 0.3s ease-in-out 0s;
 }
 .btn-five:hover {
@@ -11374,3 +11374,9 @@ html.with-fancybox body.hide-scrollbar {
 .slick-arrow.slick-hidden {
   display: none;
 } /*# sourceMappingURL=style.min.css.map */
+
+@media (max-width: 426px) {
+  .d-none1 {
+    display: none;
+  }
+}
